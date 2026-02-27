@@ -1,0 +1,14 @@
+<svg width="520" height="320" viewBox="0 0 520 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="320" rx="20" fill="#f8fafc"/>
+  <rect x="30" y="30" width="460" height="50" rx="10" fill="#1d4ed8"/>
+  <text x="55" y="62" fill="white" font-size="20" font-family="Arial">Attendance Register</text>
+  <rect x="40" y="100" width="440" height="32" rx="6" fill="#e2e8f0"/>
+  <rect x="40" y="144" width="440" height="32" rx="6" fill="#e2e8f0"/>
+  <rect x="40" y="188" width="440" height="32" rx="6" fill="#e2e8f0"/>
+  <circle cx="70" cy="116" r="8" fill="#22c55e"/>
+  <circle cx="70" cy="160" r="8" fill="#ef4444"/>
+  <circle cx="70" cy="204" r="8" fill="#22c55e"/>
+  <rect x="410" y="103" width="55" height="26" rx="6" fill="#bfdbfe"/>
+  <rect x="410" y="147" width="55" height="26" rx="6" fill="#bfdbfe"/>
+  <rect x="410" y="191" width="55" height="26" rx="6" fill="#bfdbfe"/>
+</svg>
